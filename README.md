@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaye-singhi
 - 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning Spring Boot, ReactJS, NodeJS and MongoDB
+- 🌱 I’m currently learning ReactJS, NodeJS and MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
